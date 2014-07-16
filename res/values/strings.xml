@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidCal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Number1">Number1</string>
+    <string name="Number2">Number2</string>
+    <string name="Add">Add</string>
+    <string name="Substract">Substract</string>
+    <string name="Multiplication">Multiplication</string>
+    <string name="Division">Division</string>
+    <string name="CalResult: ">CalResult: </string>
+
+</resources>
